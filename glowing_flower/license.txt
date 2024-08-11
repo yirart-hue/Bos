@@ -1,0 +1,11 @@
+Model Information:
+* title:	Glowing Flower
+* source:	https://sketchfab.com/3d-models/glowing-flower-f25f5af218694950a1b9a0452046caea
+* author:	Mila (Liudmyla) Andrushchenko (https://sketchfab.com/mila3d)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Glowing Flower" (https://sketchfab.com/3d-models/glowing-flower-f25f5af218694950a1b9a0452046caea) by Mila (Liudmyla) Andrushchenko (https://sketchfab.com/mila3d) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
