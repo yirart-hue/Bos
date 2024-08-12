@@ -1,0 +1,11 @@
+Model Information:
+* title:	Colibri
+* source:	https://sketchfab.com/3d-models/colibri-1a4bb1f7a80b4163b94e4d8795e99265
+* author:	Ear.Rodriguez (https://sketchfab.com/Ear.Rodriguez)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Colibri" (https://sketchfab.com/3d-models/colibri-1a4bb1f7a80b4163b94e4d8795e99265) by Ear.Rodriguez (https://sketchfab.com/Ear.Rodriguez) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
