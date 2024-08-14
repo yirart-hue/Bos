@@ -1,0 +1,11 @@
+Model Information:
+* title:	DREAMWEAVER_TREE
+* source:	https://sketchfab.com/3d-models/dreamweaver-tree-c4ee64432e7b4525b652bba9f794308e
+* author:	Uncanny Bichilling (https://sketchfab.com/RokoSama)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "DREAMWEAVER_TREE" (https://sketchfab.com/3d-models/dreamweaver-tree-c4ee64432e7b4525b652bba9f794308e) by Uncanny Bichilling (https://sketchfab.com/RokoSama) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
