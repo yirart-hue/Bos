@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pond assets
+* source:	https://sketchfab.com/3d-models/pond-assets-71282c6de3c8434a9fbec67c85804fd1
+* author:	Mariia Melnik (https://sketchfab.com/MariiaMelnik)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pond assets" (https://sketchfab.com/3d-models/pond-assets-71282c6de3c8434a9fbec67c85804fd1) by Mariia Melnik (https://sketchfab.com/MariiaMelnik) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
