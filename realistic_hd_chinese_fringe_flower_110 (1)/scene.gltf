@@ -1,0 +1,1598 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 8628,
+      "max": [
+        0.4365083575248718,
+        0.37462133169174194,
+        0.5126174092292786
+      ],
+      "min": [
+        -0.42324554920196533,
+        -0.42749011516571045,
+        -1.415814644893277e-16
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 103536,
+      "componentType": 5126,
+      "count": 8628,
+      "max": [
+        0.9999974966049194,
+        0.9999994039535522,
+        0.9999178051948547
+      ],
+      "min": [
+        -0.9999958872795105,
+        -0.9999510049819946,
+        -0.9579042196273804
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 8628,
+      "max": [
+        0.9999974966049194,
+        0.9999999403953552,
+        0.9999604821205139,
+        1.0
+      ],
+      "min": [
+        -0.9999998211860657,
+        -0.9999995827674866,
+        -0.9999998807907104,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 8628,
+      "max": [
+        1.0,
+        1.1102230246251565e-16
+      ],
+      "min": [
+        0.0,
+        -2.107369899749756
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 69024,
+      "componentType": 5126,
+      "count": 8628,
+      "max": [
+        1.0,
+        1.1102230246251565e-16
+      ],
+      "min": [
+        0.0,
+        -2.107369899749756
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 27606,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 207072,
+      "componentType": 5126,
+      "count": 1014,
+      "max": [
+        0.5223413109779358,
+        0.49471068382263184,
+        0.5248250961303711
+      ],
+      "min": [
+        -0.5355100631713867,
+        -0.5346592664718628,
+        -0.0018314254703000188
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 219240,
+      "componentType": 5126,
+      "count": 1014,
+      "max": [
+        0.9961869716644287,
+        0.9952592849731445,
+        0.9998973608016968
+      ],
+      "min": [
+        -0.9841516017913818,
+        -0.997866690158844,
+        -0.07975957542657852
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 138048,
+      "componentType": 5126,
+      "count": 1014,
+      "max": [
+        0.9983078241348267,
+        0.9900238513946533,
+        0.31743118166923523,
+        1.0
+      ],
+      "min": [
+        -0.9914169907569885,
+        -0.9986995458602905,
+        -0.32474184036254883,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 138048,
+      "componentType": 5126,
+      "count": 1014,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 146160,
+      "componentType": 5126,
+      "count": 1014,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 154272,
+      "componentType": 5126,
+      "count": 1014,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 110424,
+      "componentType": 5125,
+      "count": 2028,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 231408,
+      "componentType": 5126,
+      "count": 3132,
+      "max": [
+        0.5166100263595581,
+        0.48419445753097534,
+        0.6072705984115601
+      ],
+      "min": [
+        -0.5290155410766602,
+        -0.5400348901748657,
+        -0.04231739416718483
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 268992,
+      "componentType": 5126,
+      "count": 3132,
+      "max": [
+        0.9979491233825684,
+        0.9803215265274048,
+        0.999565064907074
+      ],
+      "min": [
+        -0.9918742179870605,
+        -0.9969748258590698,
+        -0.13310933113098145
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 154272,
+      "componentType": 5126,
+      "count": 3132,
+      "max": [
+        0.9975412487983704,
+        0.9998557567596436,
+        0.33902987837791443,
+        1.0
+      ],
+      "min": [
+        -0.9997653365135193,
+        -0.999769389629364,
+        -0.34059399366378784,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 162384,
+      "componentType": 5126,
+      "count": 3132,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 187440,
+      "componentType": 5126,
+      "count": 3132,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 212496,
+      "componentType": 5126,
+      "count": 3132,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 118536,
+      "componentType": 5125,
+      "count": 6264,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 306576,
+      "componentType": 5126,
+      "count": 5586,
+      "max": [
+        0.5385764837265015,
+        0.4876169264316559,
+        0.5757096409797668
+      ],
+      "min": [
+        -0.5083208680152893,
+        -0.5339577198028564,
+        -0.09098858386278152
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 373608,
+      "componentType": 5126,
+      "count": 5586,
+      "max": [
+        0.9985102415084839,
+        0.9905851483345032,
+        0.9999545812606812
+      ],
+      "min": [
+        -0.9891461730003357,
+        -0.992211639881134,
+        -0.5407549142837524
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 204384,
+      "componentType": 5126,
+      "count": 5586,
+      "max": [
+        0.9999193549156189,
+        0.9991642236709595,
+        0.8404121994972229,
+        1.0
+      ],
+      "min": [
+        -0.9997702240943909,
+        -0.9995138049125671,
+        -0.34164395928382874,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 237552,
+      "componentType": 5126,
+      "count": 5586,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 282240,
+      "componentType": 5126,
+      "count": 5586,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 326928,
+      "componentType": 5126,
+      "count": 5586,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 143592,
+      "componentType": 5125,
+      "count": 11172,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 440640,
+      "componentType": 5126,
+      "count": 14202,
+      "max": [
+        0.5488498210906982,
+        0.47948700189590454,
+        0.5575122833251953
+      ],
+      "min": [
+        -0.5213914513587952,
+        -0.5328816771507263,
+        -0.07547122240066528
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 611064,
+      "componentType": 5126,
+      "count": 14202,
+      "max": [
+        0.9101847410202026,
+        0.9835587739944458,
+        0.999983012676239
+      ],
+      "min": [
+        -0.9060757756233215,
+        -0.9101866483688354,
+        -0.15202392637729645
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 293760,
+      "componentType": 5126,
+      "count": 14202,
+      "max": [
+        0.9996470212936401,
+        0.9997512102127075,
+        0.5164711475372314,
+        1.0
+      ],
+      "min": [
+        -0.999362587928772,
+        -0.999984085559845,
+        -0.3415614068508148,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 371616,
+      "componentType": 5126,
+      "count": 14202,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 485232,
+      "componentType": 5126,
+      "count": 14202,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 598848,
+      "componentType": 5126,
+      "count": 14202,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 188280,
+      "componentType": 5125,
+      "count": 28404,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 781488,
+      "componentType": 5126,
+      "count": 15162,
+      "max": [
+        0.5209320783615112,
+        0.4504714906215668,
+        0.5460748076438904
+      ],
+      "min": [
+        -0.4987276792526245,
+        -0.4834415018558502,
+        -0.04090695455670357
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 963432,
+      "componentType": 5126,
+      "count": 15162,
+      "max": [
+        0.8982865810394287,
+        0.859006404876709,
+        0.9999942779541016
+      ],
+      "min": [
+        -0.9193907976150513,
+        -0.9662244915962219,
+        0.028903469443321228
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 520992,
+      "componentType": 5126,
+      "count": 15162,
+      "max": [
+        0.9995420575141907,
+        0.9989286065101624,
+        0.9061284065246582,
+        1.0
+      ],
+      "min": [
+        -0.9996967315673828,
+        -0.9996452927589417,
+        -0.37888267636299133,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 712464,
+      "componentType": 5126,
+      "count": 15162,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 833760,
+      "componentType": 5126,
+      "count": 15162,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 955056,
+      "componentType": 5126,
+      "count": 15162,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 301896,
+      "componentType": 5125,
+      "count": 30324,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1145376,
+      "componentType": 5126,
+      "count": 52794,
+      "max": [
+        0.5193527340888977,
+        0.46809718012809753,
+        0.581417441368103
+      ],
+      "min": [
+        -0.5072357058525085,
+        -0.5140187740325928,
+        -0.061696961522102356
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1778904,
+      "componentType": 5126,
+      "count": 52794,
+      "max": [
+        0.9999712705612183,
+        0.9999902844429016,
+        0.9996559619903564
+      ],
+      "min": [
+        -0.9999979734420776,
+        -0.9999956488609314,
+        -0.999923586845398
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1076352,
+      "componentType": 5126,
+      "count": 52794,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 423192,
+      "componentType": 5125,
+      "count": 203634,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2412432,
+      "componentType": 5126,
+      "count": 2441,
+      "max": [
+        0.5258755087852478,
+        0.4713323414325714,
+        0.574188768863678
+      ],
+      "min": [
+        -0.4635724723339081,
+        -0.44361549615859985,
+        -0.015987936407327652
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2441724,
+      "componentType": 5126,
+      "count": 2441,
+      "max": [
+        0.9966849684715271,
+        0.9996950626373291,
+        0.9999343156814575
+      ],
+      "min": [
+        -0.9983615875244141,
+        -0.9989091753959656,
+        -0.999995231628418
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 763584,
+      "componentType": 5126,
+      "count": 2441,
+      "max": [
+        0.9998893737792969,
+        0.9995490908622742,
+        0.9987673163414001,
+        1.0
+      ],
+      "min": [
+        -0.9999054670333862,
+        -0.9990513324737549,
+        -0.9990465641021729,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1498704,
+      "componentType": 5126,
+      "count": 2441,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1518232,
+      "componentType": 5126,
+      "count": 2441,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1537760,
+      "componentType": 5126,
+      "count": 2441,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1237728,
+      "componentType": 5125,
+      "count": 6192,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2471016,
+      "componentType": 5126,
+      "count": 3077,
+      "max": [
+        0.5304348468780518,
+        0.47409626841545105,
+        0.5660900473594666
+      ],
+      "min": [
+        -0.467182993888855,
+        -0.4385923743247986,
+        -0.022186318412423134
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2507940,
+      "componentType": 5126,
+      "count": 3077,
+      "max": [
+        0.9992303848266602,
+        0.998419463634491,
+        0.9999622106552124
+      ],
+      "min": [
+        -0.9996616840362549,
+        -0.9998936653137207,
+        -0.9975172877311707
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 802640,
+      "componentType": 5126,
+      "count": 3077,
+      "max": [
+        0.9995671510696411,
+        0.9999129772186279,
+        0.9993959665298462,
+        1.0
+      ],
+      "min": [
+        -0.9996863603591919,
+        -0.9998794198036194,
+        -0.9995663166046143,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1557288,
+      "componentType": 5126,
+      "count": 3077,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1581904,
+      "componentType": 5126,
+      "count": 3077,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1606520,
+      "componentType": 5126,
+      "count": 3077,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1262496,
+      "componentType": 5125,
+      "count": 7860,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2544864,
+      "componentType": 5126,
+      "count": 3136,
+      "max": [
+        0.5320665836334229,
+        0.4617721140384674,
+        0.5267676711082458
+      ],
+      "min": [
+        -0.48352760076522827,
+        -0.4290236532688141,
+        -0.006890228483825922
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2582496,
+      "componentType": 5126,
+      "count": 3136,
+      "max": [
+        0.9994597434997559,
+        0.9997048377990723,
+        0.9994077086448669
+      ],
+      "min": [
+        -0.9994597434997559,
+        -0.9996761083602905,
+        -0.998321533203125
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 851872,
+      "componentType": 5126,
+      "count": 3136,
+      "max": [
+        0.9996851086616516,
+        0.9999531507492065,
+        0.9997693300247192,
+        1.0
+      ],
+      "min": [
+        -0.9998396635055542,
+        -0.9981817603111267,
+        -0.9994341135025024,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1631136,
+      "componentType": 5126,
+      "count": 3136,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1656224,
+      "componentType": 5126,
+      "count": 3136,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1681312,
+      "componentType": 5126,
+      "count": 3136,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1293936,
+      "componentType": 5125,
+      "count": 8022,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "PlantCatalog (https://sketchfab.com/PlantCatalog)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/realistic-hd-chinese-fringe-flower-110-4026a59357a645ebb491e94c5ae38485",
+      "title": "Realistic HD Chinese fringe flower (1/10)"
+    },
+    "generator": "Sketchfab-16.14.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1326024,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1706400,
+      "byteOffset": 1326024,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2620128,
+      "byteOffset": 3032424,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 902048,
+      "byteOffset": 5652552,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 6554600,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Loropetalum_bark_baseColor.png"
+    },
+    {
+      "uri": "textures/Loropetalum_bark_normal.png"
+    },
+    {
+      "uri": "textures/Loropetalum_leaf_01_baseColor.png"
+    },
+    {
+      "uri": "textures/Loropetalum_leaf_01_normal.png"
+    },
+    {
+      "uri": "textures/Loropetalum_leaf_02_baseColor.png"
+    },
+    {
+      "uri": "textures/Loropetalum_leaf_03_baseColor.png"
+    },
+    {
+      "uri": "textures/Loropetalum_leaf_04_baseColor.png"
+    },
+    {
+      "uri": "textures/Loropetalum_leaf_05_baseColor.png"
+    },
+    {
+      "uri": "textures/Loropetalum_twig_baseColor.png"
+    },
+    {
+      "uri": "textures/Loropetalum_petals_02_baseColor.png"
+    },
+    {
+      "uri": "textures/Loropetalum_petals_02_normal.png"
+    },
+    {
+      "uri": "textures/Loropetalum_petals_01_baseColor.png"
+    },
+    {
+      "uri": "textures/Loropetalum_petals_03_baseColor.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Loropetalum_bark",
+      "normalTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "Loropetalum_leaf_01",
+      "normalTexture": {
+        "index": 3
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 2
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8751222575024153
+      }
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "Loropetalum_leaf_02",
+      "normalTexture": {
+        "index": 3
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8751222575024153
+      }
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "Loropetalum_leaf_03",
+      "normalTexture": {
+        "index": 3
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 5
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8751222575024153
+      }
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "Loropetalum_leaf_04",
+      "normalTexture": {
+        "index": 3
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 6
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9027451
+      }
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "Loropetalum_leaf_05",
+      "normalTexture": {
+        "index": 3
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 7
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8751222575024153
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Loropetalum_twig",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 8
+        },
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "Loropetalum_petals_02",
+      "normalTexture": {
+        "index": 10
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 9
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.878338771034959
+      }
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "Loropetalum_petals_01",
+      "normalTexture": {
+        "index": 10
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 11
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.878338771034959
+      }
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "Loropetalum_petals_03",
+      "normalTexture": {
+        "index": 10
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 12
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.878338771034959
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Loropetalum_chinense_var_rubrum_HD_Loropetalum bark_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Loropetalum_chinense_var_rubrum_HD_Loropetalum leaf 01_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6,
+            "TANGENT": 8,
+            "TEXCOORD_0": 9,
+            "TEXCOORD_1": 10,
+            "TEXCOORD_2": 11
+          },
+          "indices": 12,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Loropetalum_chinense_var_rubrum_HD_Loropetalum leaf 02_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 14,
+            "POSITION": 13,
+            "TANGENT": 15,
+            "TEXCOORD_0": 16,
+            "TEXCOORD_1": 17,
+            "TEXCOORD_2": 18
+          },
+          "indices": 19,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Loropetalum_chinense_var_rubrum_HD_Loropetalum leaf 03_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 21,
+            "POSITION": 20,
+            "TANGENT": 22,
+            "TEXCOORD_0": 23,
+            "TEXCOORD_1": 24,
+            "TEXCOORD_2": 25
+          },
+          "indices": 26,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Loropetalum_chinense_var_rubrum_HD_Loropetalum leaf 04_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 28,
+            "POSITION": 27,
+            "TANGENT": 29,
+            "TEXCOORD_0": 30,
+            "TEXCOORD_1": 31,
+            "TEXCOORD_2": 32
+          },
+          "indices": 33,
+          "material": 4,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Loropetalum_chinense_var_rubrum_HD_Loropetalum leaf 05_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 35,
+            "POSITION": 34,
+            "TANGENT": 36,
+            "TEXCOORD_0": 37,
+            "TEXCOORD_1": 38,
+            "TEXCOORD_2": 39
+          },
+          "indices": 40,
+          "material": 5,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Loropetalum_chinense_var_rubrum_HD_Loropetalum twig_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 42,
+            "POSITION": 41,
+            "TEXCOORD_0": 43
+          },
+          "indices": 44,
+          "material": 6,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Loropetalum_chinense_var_rubrum_HD_Loropetalum petals 02_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 46,
+            "POSITION": 45,
+            "TANGENT": 47,
+            "TEXCOORD_0": 48,
+            "TEXCOORD_1": 49,
+            "TEXCOORD_2": 50
+          },
+          "indices": 51,
+          "material": 7,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Loropetalum_chinense_var_rubrum_HD_Loropetalum petals 01_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 53,
+            "POSITION": 52,
+            "TANGENT": 54,
+            "TEXCOORD_0": 55,
+            "TEXCOORD_1": 56,
+            "TEXCOORD_2": 57
+          },
+          "indices": 58,
+          "material": 8,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Loropetalum_chinense_var_rubrum_HD_Loropetalum petals 03_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 60,
+            "POSITION": 59,
+            "TANGENT": 61,
+            "TEXCOORD_0": 62,
+            "TEXCOORD_1": 63,
+            "TEXCOORD_2": 64
+          },
+          "indices": 65,
+          "material": 9,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Loropetalum chinense var rubrum HD_Standard mat 0_LOD0.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Loropetalum_chinense_var_rubrum_HD"
+    },
+    {
+      "mesh": 0,
+      "name": "Loropetalum_chinense_var_rubrum_HD_Loropetalum bark_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Loropetalum_chinense_var_rubrum_HD_Loropetalum leaf 01_0"
+    },
+    {
+      "mesh": 2,
+      "name": "Loropetalum_chinense_var_rubrum_HD_Loropetalum leaf 02_0"
+    },
+    {
+      "mesh": 3,
+      "name": "Loropetalum_chinense_var_rubrum_HD_Loropetalum leaf 03_0"
+    },
+    {
+      "mesh": 4,
+      "name": "Loropetalum_chinense_var_rubrum_HD_Loropetalum leaf 04_0"
+    },
+    {
+      "mesh": 5,
+      "name": "Loropetalum_chinense_var_rubrum_HD_Loropetalum leaf 05_0"
+    },
+    {
+      "mesh": 6,
+      "name": "Loropetalum_chinense_var_rubrum_HD_Loropetalum twig_0"
+    },
+    {
+      "mesh": 7,
+      "name": "Loropetalum_chinense_var_rubrum_HD_Loropetalum petals 02_0"
+    },
+    {
+      "mesh": 8,
+      "name": "Loropetalum_chinense_var_rubrum_HD_Loropetalum petals 01_0"
+    },
+    {
+      "mesh": 9,
+      "name": "Loropetalum_chinense_var_rubrum_HD_Loropetalum petals 03_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    },
+    {
+      "sampler": 0,
+      "source": 6
+    },
+    {
+      "sampler": 0,
+      "source": 7
+    },
+    {
+      "sampler": 0,
+      "source": 8
+    },
+    {
+      "sampler": 0,
+      "source": 9
+    },
+    {
+      "sampler": 0,
+      "source": 10
+    },
+    {
+      "sampler": 0,
+      "source": 11
+    },
+    {
+      "sampler": 0,
+      "source": 12
+    }
+  ]
+}
