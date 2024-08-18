@@ -1,0 +1,11 @@
+Model Information:
+* title:	WHISPERING ELM_TREE
+* source:	https://sketchfab.com/3d-models/whispering-elm-tree-d90b1d689e99480b9affee3c8d2d4a57
+* author:	Uncanny Bichilling (https://sketchfab.com/RokoSama)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "WHISPERING ELM_TREE" (https://sketchfab.com/3d-models/whispering-elm-tree-d90b1d689e99480b9affee3c8d2d4a57) by Uncanny Bichilling (https://sketchfab.com/RokoSama) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
