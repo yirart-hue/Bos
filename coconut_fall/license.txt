@@ -1,0 +1,11 @@
+Model Information:
+* title:	Coconut Fall
+* source:	https://sketchfab.com/3d-models/coconut-fall-8f1392157b8c4ad799b5852ce2bb9b51
+* author:	f_blake (https://sketchfab.com/f_blake)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Coconut Fall" (https://sketchfab.com/3d-models/coconut-fall-8f1392157b8c4ad799b5852ce2bb9b51) by f_blake (https://sketchfab.com/f_blake) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
