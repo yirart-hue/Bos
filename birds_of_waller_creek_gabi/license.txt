@@ -1,0 +1,11 @@
+Model Information:
+* title:	Birds of Waller Creek: Gabi
+* source:	https://sketchfab.com/3d-models/birds-of-waller-creek-gabi-1dea9dbf36844f0eb9627b865126fbcc
+* author:	gtgroberio (https://sketchfab.com/gtgroberio)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Birds of Waller Creek: Gabi" (https://sketchfab.com/3d-models/birds-of-waller-creek-gabi-1dea9dbf36844f0eb9627b865126fbcc) by gtgroberio (https://sketchfab.com/gtgroberio) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
