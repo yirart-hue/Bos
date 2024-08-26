@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tree
+* source:	https://sketchfab.com/3d-models/tree-d215c57af769429086f0ce8472b015cc
+* author:	Sampurasun (https://sketchfab.com/Sampurasun)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tree" (https://sketchfab.com/3d-models/tree-d215c57af769429086f0ce8472b015cc) by Sampurasun (https://sketchfab.com/Sampurasun) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
