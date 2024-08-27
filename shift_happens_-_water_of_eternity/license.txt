@@ -1,0 +1,11 @@
+Model Information:
+* title:	Shift Happens - Water of Eternity
+* source:	https://sketchfab.com/3d-models/shift-happens-water-of-eternity-b8039cb3a2fd42d7b8526f3a803132bd
+* author:	DENBRU3D (https://sketchfab.com/TestModels)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Shift Happens - Water of Eternity" (https://sketchfab.com/3d-models/shift-happens-water-of-eternity-b8039cb3a2fd42d7b8526f3a803132bd) by DENBRU3D (https://sketchfab.com/TestModels) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
