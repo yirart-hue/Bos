@@ -1,0 +1,11 @@
+Model Information:
+* title:	Looping Snow 2
+* source:	https://sketchfab.com/3d-models/looping-snow-2-939d059c7a43424f93c3e8e44e1d5489
+* author:	Elin (https://sketchfab.com/ElinHohler)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Looping Snow 2" (https://sketchfab.com/3d-models/looping-snow-2-939d059c7a43424f93c3e8e44e1d5489) by Elin (https://sketchfab.com/ElinHohler) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
