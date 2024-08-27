@@ -1,0 +1,11 @@
+Model Information:
+* title:	Spherical Galaxy Formation
+* source:	https://sketchfab.com/3d-models/spherical-galaxy-formation-36f012e0a2904a6ea81652821671c72d
+* author:	Inditrion Dradnon (https://sketchfab.com/dradnon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Spherical Galaxy Formation" (https://sketchfab.com/3d-models/spherical-galaxy-formation-36f012e0a2904a6ea81652821671c72d) by Inditrion Dradnon (https://sketchfab.com/dradnon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
